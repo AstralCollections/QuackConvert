@@ -1,0 +1,13 @@
+REM Default Script for https://github.com/ZerodayCollections/rubberDigi
+
+DELAY 750
+GUI r
+DELAY 1000
+STRING powershell Start-Process notepad -Verb runAs
+ENTER
+DELAY 750
+ALT y
+DELAY 750
+ENTER
+STRING powershell.exe "start google.com"
+ENTER
