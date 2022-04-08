@@ -1,4 +1,4 @@
-# RubberDigi
+# QuackConvert
 
 > Converts Rubber Ducky scripts to an Arduino sketch that can run on the DigiSpark ATtiny85 USB device.
 
